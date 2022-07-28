@@ -14,6 +14,25 @@
 
 **2.项目完成情况：**
 
+完成共计6个项目
+
+①Project: do your best to optimize SM3 implementation (software)
+在软件上尽最大努力实现SM3，使得SM3的加密速度尽可能的快
+
+②Project: Impl Merkle Tree following RFC6962
+依据协议RFC6962实现默克树
+
+③Project: impl sm2 with RFC6979
+按协议RFC6979实现SM2.
+
+④Project: Implement the above ECMH scheme
+实施上述ECMH方案：椭圆曲线哈希族
+
+⑤Project: forge a signature to pretend that you are Satoshi
+伪造合法签名使得你可以被认为是Satoshi
+
+⑥Project: research report on MPT
+MPT研究报告，Merkle Patricia Trie方案
 
 <!--
 **Sunzehan/Sunzehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
