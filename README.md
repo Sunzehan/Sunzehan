@@ -34,6 +34,22 @@
 ⑥Project: research report on MPT
 MPT研究报告，Merkle Patricia Trie方案
 
+**3.所有项目清单**
+
+由于该list文本较长，不在这里进行展示，以pdf的形式放在命名为project_list的仓库中，其中内容也会以截图的形式放在该仓库的md文件中，方便老师们浏览。
+
+对应于项目清单，我完成的项目序号分别为：
+
+一．SM3：4，5
+
+三．SM2: 2，4
+
+四．比特币：1
+
+六．以太坊：1
+
+其余均为未完成项目（惭愧！）
+
 <!--
 **Sunzehan/Sunzehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
