@@ -46,7 +46,7 @@ MPT研究报告，Merkle Patricia Trie方案
 
 四．比特币：2
 
-六．real worl Cryptanalyses：1
+六．real world Cryptanalyses：1
 
 其余均为未完成项目
 
