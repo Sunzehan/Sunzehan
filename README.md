@@ -50,7 +50,7 @@ MPT研究报告，Merkle Patricia Trie方案
 
 六．以太坊：1
 
-其余均为未完成项目（惭愧！）
+其余均为未完成项目
 
 <!--
 **Sunzehan/Sunzehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
