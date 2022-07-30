@@ -14,7 +14,7 @@
 
 **2.项目完成情况：**
 
-完成共计6个项目
+完成共计6个项目，分别对应同名的仓库
 
 ①Project: do your best to optimize SM3 implementation (software)
 在软件上尽最大努力实现SM3，使得SM3的加密速度尽可能的快
