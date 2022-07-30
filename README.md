@@ -34,8 +34,6 @@
 ⑥Project: research report on MPT
 MPT研究报告，Merkle Patricia Trie方案
 
-每个项目的研究内容
-
 **3.所有项目清单**
 
 由于该list文本较长，不在这里进行展示，以pdf的形式放在命名为project_list的仓库中，其中内容也会以截图的形式放在该仓库的md文件中，方便老师们浏览。
